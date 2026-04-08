@@ -1,1 +1,1 @@
-# DatabaseRecoveryScenarios-1
+# DatabaseScenarios-1
